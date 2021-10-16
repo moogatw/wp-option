@@ -2,7 +2,7 @@
 
 ![](https://oberonlai.blog/wp-content/uploads/wordpress-and-composer/wordpress-and-composer-10.jpg)
 
-> Simple WordPress class for settings api modifed from [boo-settings-helper](https://github.com/boospot/boo-settings-helper) 
+> Simple WordPress class for settings api modifed from [oberonlai/wp-option](https://github.com/oberonlai/wp-option)
 
 ## Requirements
 
