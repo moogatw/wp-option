@@ -1,0 +1,22 @@
+{
+    "name": "moogatw/wp-option",
+    "description": "Adding option page for WordPress.",
+    "homepage": "https://github.com/moogatw/wp-option",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mooga",
+            "email": "github@mooga.com.tw",
+            "homepage": "https://mooga.com.tw"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "MGD\\": "src/"
+        }
+    }
+}
