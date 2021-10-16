@@ -44,7 +44,7 @@ Below is a basic example of setting up a simple option page.
 require __DIR__ . '/vendor/autoload.php';
 
 // Import PostTypes.
-use ODS\Option;
+use MGD\Option;
 
 $config = new Option( 'plugin-prefix' );
 $config->addMenu();
@@ -475,7 +475,7 @@ $config->addLink(
 You can use WordPress get_option() to get value. Don't forget the prefix name of field id. For example::
 
 ```php
-use ODS\Option;
+use MGD\Option;
 
 $config = new Option( 'hello-world-' );
 $config->addMenu();
