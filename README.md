@@ -25,7 +25,7 @@ WP Option [PSR-4](https://www.php-fig.org/psr/psr-4/) autoloading and can be use
 ```php
 require __DIR__ . '/vendor/autoload.php';
 
-use ODS\Option;
+use MGD\Option;
 
 $prefix = 'plugin-prefix';
 
